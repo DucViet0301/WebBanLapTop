@@ -26,9 +26,6 @@ namespace WebBanLapTop.Controllers
 
             return View();
         }
-        public ActionResult Test()
-        {
-            return View("m");
-        }
+       
     }
 }
